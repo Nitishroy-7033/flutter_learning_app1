@@ -1,17 +1,52 @@
-# flutter_learning_app1
+child -> It will take only one widget 
+Text("Nitish Kumar");
+children -> It can take multiple widget 
+children : [
+    Text("sdhfjf"),
+    Text("sdhfjf"),
+    Text("sdhfjf"),
+    Text("sdhfjf"),
+    Text("sdhfjf"),
+]
 
-A new Flutter project.
 
-## Getting Started
+{container 
+round 
+ontap 
+icon 
+text 
+} Button 
 
-This project is a starting point for a Flutter application.
+----------------
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Stateless : - In this widget no data will change on the realtime
+StateFull : - in this widget you can change data on the realtime 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Stateless : 
+* Fast 
+* Memory Friendly 
+* Optimized 
+
+StateFull : 
+* Slow 
+
+State Management 
+Stateless+statefull 
+
+5 s
+5 s
+1 s
+
+
+
+Common Widgets 
+Column 
+Row 
+Text 
+Padding
+Button 
+Container 
+Margin 
+InputText
